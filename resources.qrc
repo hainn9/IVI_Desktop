@@ -1,0 +1,242 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/AppFW/AppFramework.qml</file>
+        <file>qml/AppFW/AppHolder.qml</file>
+        <file>qml/AppFW/DynamicApp.qml</file>
+        <file>qml/AppFW/TopNav.qml</file>
+        <file>qml/AppFW/UserSelector.qml</file>
+        <file>qml/AppFW/VolumeBar.qml</file>
+        <file>qml/Browser/BookmarkView.qml</file>
+        <file>qml/Browser/BrowserApp.qml</file>
+        <file>qml/Browser/BrowserMainView.qml</file>
+        <file>qml/Browser/BrowserView.qml</file>
+        <file>qml/Browser/ButtonsDataBookmarks.qml</file>
+        <file>qml/Browser/ButtonsDataBrowser.qml</file>
+        <file>qml/Browser/UrlInputBox.qml</file>
+        <file>qml/dummydata/activeConfiguration.qml</file>
+        <file>qml/dummydata/bookmarkData.qml</file>
+        <file>qml/dummydata/musicListUser.qml</file>
+        <file>qml/dummydata/phoneData.qml</file>
+        <file>qml/dummydata/content/albums/A BROKEN MOMENT_Paralyzia.jpg</file>
+        <file>qml/dummydata/content/albums/AXIAL_AXIAL vol 1.jpg</file>
+        <file>qml/dummydata/content/albums/Beaumont Livingston_Demo.jpg</file>
+        <file>qml/dummydata/content/albums/Born of Sin_Let it begin.jpg</file>
+        <file>qml/dummydata/content/albums/clonboy_odium inc. producing hate.jpg</file>
+        <file>qml/dummydata/content/albums/convidat_stagnation.jpg</file>
+        <file>qml/dummydata/content/albums/Charlie Gibson_Trois Frangepedies.jpg</file>
+        <file>qml/dummydata/content/albums/DarkSide_first step in my world.jpg</file>
+        <file>qml/dummydata/content/albums/Darren Lock_Tempest.jpg</file>
+        <file>qml/dummydata/content/albums/David Schombert_ELECTRON.jpg</file>
+        <file>qml/dummydata/content/albums/Dereleech_Standstill.jpg</file>
+        <file>qml/dummydata/content/albums/Dilettant_Zona.jpg</file>
+        <file>qml/dummydata/content/albums/Dj Beck_Dj Beck Archives .jpg</file>
+        <file>qml/dummydata/content/albums/DJ John_45min (2009).jpg</file>
+        <file>qml/dummydata/content/albums/dj_espinazo_ambients on weed.jpg</file>
+        <file>qml/dummydata/content/albums/Dragoide_Prisma.jpg</file>
+        <file>qml/dummydata/content/albums/drikssai_sorcery.jpg</file>
+        <file>qml/dummydata/content/albums/elaine_flirren.jpg</file>
+        <file>qml/dummydata/content/albums/F.GLAUSINGER_ReCall.jpg</file>
+        <file>qml/dummydata/content/albums/Faces in Disguise_Niwe Rao.jpg</file>
+        <file>qml/dummydata/content/albums/Fresh Body Shop_Orgamilk.jpg</file>
+        <file>qml/dummydata/content/albums/Galdson_Roots.jpg</file>
+        <file>qml/dummydata/content/albums/Gawin_Studio.jpg</file>
+        <file>qml/dummydata/content/albums/GAZ_Chant.jpg</file>
+        <file>qml/dummydata/content/albums/guarapita_Like a Huele Pega.jpg</file>
+        <file>qml/dummydata/content/albums/Guimbardoz.jpg</file>
+        <file>qml/dummydata/content/albums/gilx p_electrogilx.jpg</file>
+        <file>qml/dummydata/content/albums/Hakim_La clepsydre.jpg</file>
+        <file>qml/dummydata/content/albums/Hangovers_Number one.jpg</file>
+        <file>qml/dummydata/content/albums/hedgehog dilemma_3113.jpg</file>
+        <file>qml/dummydata/content/albums/Jeff Vox_BETTER.jpg</file>
+        <file>qml/dummydata/content/albums/Main Dish_Teared Clouds.jpg</file>
+        <file>qml/dummydata/content/albums/MAIS_Mix-o-down.jpg</file>
+        <file>qml/dummydata/content/albums/Marcus Rasseli_New World.jpg</file>
+        <file>qml/dummydata/content/albums/MOPI_Feel it down.jpg</file>
+        <file>qml/dummydata/content/albums/Mr.Henky_Imaginationland.jpg</file>
+        <file>qml/dummydata/content/albums/MUZ_Hidden Tracks.jpg</file>
+        <file>qml/dummydata/content/albums/New Dance Boys Mission_Od Nas, Dla Was.jpg</file>
+        <file>qml/dummydata/content/albums/Olios_prototype.jpg</file>
+        <file>qml/dummydata/content/albums/Psy Brazil - Ol Biz .jpg</file>
+        <file>qml/dummydata/content/albums/Redmind_Get into the coma.jpg</file>
+        <file>qml/dummydata/content/albums/Robert Radamant_Oximoron.jpg</file>
+        <file>qml/dummydata/content/albums/SaReGaMa_4D Reality.jpg</file>
+        <file>qml/dummydata/content/albums/Schickers Mind_Maschienenraum.jpg</file>
+        <file>qml/dummydata/content/albums/Schizoidal_Midwinter EP.jpg</file>
+        <file>qml/dummydata/content/albums/SKiV_FiFa.jpg</file>
+        <file>qml/dummydata/content/albums/SoLaRiS_2012.jpg</file>
+        <file>qml/dummydata/content/albums/Soul Connexion_Perspectives.jpg</file>
+        <file>qml/dummydata/content/albums/Spacemood_Mothership.jpg</file>
+        <file>qml/dummydata/content/albums/TAIGA_Aralar.jpg</file>
+        <file>qml/dummydata/content/albums/Tenchi_Shin_Patchwork.jpg</file>
+        <file>qml/dummydata/content/albums/Tes_Beatz From Da Unda.jpg</file>
+        <file>qml/dummydata/content/albums/Tongue Of The Young_Roots.jpg</file>
+        <file>qml/dummydata/content/albums/thelittlewoodstudio_Patchwork.jpg</file>
+        <file>qml/dummydata/content/albums/ThoR-AA9_TempsObscurs.jpg</file>
+        <file>qml/dummydata/content/albums/Traummaschine_2.jpg</file>
+        <file>qml/dummydata/content/albums/Tryad_Listen.jpg</file>
+        <file>qml/dummydata/content/albums/vincen _Demi-deuil.jpg</file>
+        <file>qml/dummydata/content/albums/Volt-Ampere_Vibrances.jpg</file>
+        <file>qml/dummydata/content/albums/Yvalain_Au Mont Sesshu.jpg</file>
+        <file>qml/dummydata/content/albums/Yvalain_Baroque Mood.jpg</file>
+        <file>qml/dummydata/content/backgrounds/background1.png</file>
+        <file>qml/dummydata/content/backgrounds/background2.png</file>
+        <file>qml/dummydata/content/backgrounds/background3.png</file>
+        <file>qml/dummydata/content/bookmarks/accuweather.png</file>
+        <file>qml/dummydata/content/bookmarks/bbc.png</file>
+        <file>qml/dummydata/content/bookmarks/digia.png</file>
+        <file>qml/dummydata/content/bookmarks/facebook.jpg</file>
+        <file>qml/dummydata/content/bookmarks/facebook.png</file>
+        <file>qml/dummydata/content/bookmarks/foreca_barcelona.png</file>
+        <file>qml/dummydata/content/bookmarks/google.png</file>
+        <file>qml/dummydata/content/bookmarks/lonely_planet_barcelona.png</file>
+        <file>qml/dummydata/content/bookmarks/nokia_europe.png</file>
+        <file>qml/dummydata/content/bookmarks/qt.png</file>
+        <file>qml/dummydata/content/faces/anna.png</file>
+        <file>qml/dummydata/content/faces/contact_photo_ellie.jpg</file>
+        <file>qml/dummydata/content/faces/contact_photo_john.jpg</file>
+        <file>qml/dummydata/content/faces/contact_photo_julia.jpg</file>
+        <file>qml/dummydata/content/faces/contact_photo_jurgen.jpg</file>
+        <file>qml/dummydata/content/faces/Face_man1.jpg</file>
+        <file>qml/dummydata/content/faces/Face_man3.jpg</file>
+        <file>qml/dummydata/content/faces/Face_woman1.jpg</file>
+        <file>qml/dummydata/content/faces/Face_woman2.jpg</file>
+        <file>qml/dummydata/content/faces/Face_woman3.jpg</file>
+        <file>qml/dummydata/content/faces/john.png</file>
+        <file>qml/dummydata/content/faces/lisa.png</file>
+        <file>qml/dummydata/content/faces/mike.png</file>
+        <file>qml/Home/HomeApp.qml</file>
+        <file>qml/Home/HomeMainView.qml</file>
+        <file>qml/Home/TopNavItemHome.qml</file>
+        <file>qml/Home/WeatherIcon.qml</file>
+        <file>qml/Home/BigForecastIcon.qml</file>
+        <file>qml/Home/ForecastIcon.qml</file>
+        <file>qml/Keyboard/keyboard.js</file>
+        <file>qml/Keyboard/KeyButton.qml</file>
+        <file>qml/Keyboard/OnscreenKeyboard.qml</file>
+        <file>qml/Log/LogApp.qml</file>
+        <file>qml/Log/LogButtonsData.qml</file>
+        <file>qml/Log/LogCurrentView.qml</file>
+        <file>qml/Log/LogHistoryList.qml</file>
+        <file>qml/Log/LogMainView.qml</file>
+        <file>qml/Music/MusicApp.qml</file>
+        <file>qml/Music/MusicButtonsData.qml</file>
+        <file>qml/Music/MusicDetails.qml</file>
+        <file>qml/Music/MusicMainView.qml</file>
+        <file>qml/Music/MusicUpdateScript.js</file>
+        <file>qml/Music/ProgressBar.qml</file>
+        <file>qml/Navigation/DetailsButtonsLocation.qml</file>
+        <file>qml/Navigation/DetailsButtonsMain.qml</file>
+        <file>qml/Navigation/DetailsButtonsRoute.qml</file>
+        <file>qml/Navigation/LocateView.qml</file>
+        <file>qml/Navigation/MapView.qml</file>
+        <file>qml/Navigation/NavApp.qml</file>
+        <file>qml/Navigation/NavMainView.qml</file>
+        <file>qml/Navigation/OfflineView.qml</file>
+        <file>qml/Navigation/RouteView.qml</file>
+        <file>qml/Phone/Button.qml</file>
+        <file>qml/Phone/ContactDetails.qml</file>
+        <file>qml/Phone/ContactItemDrawer.qml</file>
+        <file>qml/Phone/DialButton.qml</file>
+        <file>qml/Phone/Dialpad.qml</file>
+        <file>qml/Phone/PhoneApp.qml</file>
+        <file>qml/Phone/PhoneButtonsData.qml</file>
+        <file>qml/Phone/PhoneMainView.qml</file>
+        <file>qml/shared/InputBox.qml</file>
+        <file>qml/shared/LabelInputBox.qml</file>
+        <file>qml/shared/ProgressIndicator.qml</file>
+        <file>qml/shared/ScrollIndicator.qml</file>
+        <file>qml/shared/Toolbar.qml</file>
+        <file>qml/shared/ToolbarButton.qml</file>
+        <file>qml/images/backgrounds/background_main.png</file>
+        <file>qml/images/bars/home_bar_internet.png</file>
+        <file>qml/images/bars/home_bar_log.png</file>
+        <file>qml/images/bars/home_bar_music.png</file>
+        <file>qml/images/bars/home_bar_nav.png</file>
+        <file>qml/images/bars/home_bar_others.png</file>
+        <file>qml/images/bars/home_bar_phone.png</file>
+        <file>qml/images/bars/listbar_internet.png</file>
+        <file>qml/images/bars/listbar_log.png</file>
+        <file>qml/images/bars/listbar_music.png</file>
+        <file>qml/images/bars/listbar_phone.png</file>
+        <file>qml/images/bars/user_bar.png</file>
+        <file>qml/images/bars/user_bar_selected.png</file>
+        <file>qml/images/buttons/home_active.png</file>
+        <file>qml/images/buttons/home_passive.png</file>
+        <file>qml/images/buttons/log_active.png</file>
+        <file>qml/images/buttons/log_passive.png</file>
+        <file>qml/images/buttons/music_active.png</file>
+        <file>qml/images/buttons/music_passive.png</file>
+        <file>qml/images/buttons/nav_active.png</file>
+        <file>qml/images/buttons/nav_passive.png</file>
+        <file>qml/images/buttons/phone_active.png</file>
+        <file>qml/images/buttons/phone_passive.png</file>
+        <file>qml/images/buttons/web_active.png</file>
+        <file>qml/images/buttons/web_passive.png</file>
+        <file>qml/images/icons/icon_add.png</file>
+        <file>qml/images/icons/icon_back.png</file>
+        <file>qml/images/icons/icon_backspace.png</file>
+        <file>qml/images/icons/icon_bookmarks_list.png</file>
+        <file>qml/images/icons/icon_bookmarks_thumbs.png</file>
+        <file>qml/images/icons/icon_cancel.png</file>
+        <file>qml/images/icons/icon_contacts.png</file>
+        <file>qml/images/icons/icon_forward.png</file>
+        <file>qml/images/icons/icon_internet.png</file>
+        <file>qml/images/icons/icon_keyboard.png</file>
+        <file>qml/images/icons/icon_keypad.png</file>
+        <file>qml/images/icons/icon_locate.png</file>
+        <file>qml/images/icons/icon_log.png</file>
+        <file>qml/images/icons/icon_music.png</file>
+        <file>qml/images/icons/icon_mute.png</file>
+        <file>qml/images/icons/icon_mute_bigger.png</file>
+        <file>qml/images/icons/icon_mute_speaker.png</file>
+        <file>qml/images/icons/icon_nav.png</file>
+        <file>qml/images/icons/icon_nearby.png</file>
+        <file>qml/images/icons/icon_ok.png</file>
+        <file>qml/images/icons/icon_phone.png</file>
+        <file>qml/images/icons/icon_phone_green.png</file>
+        <file>qml/images/icons/icon_phone_red.png</file>
+        <file>qml/images/icons/icon_reload.png</file>
+        <file>qml/images/icons/icon_route.png</file>
+        <file>qml/images/icons/icon_routepoint.png</file>
+        <file>qml/images/icons/icon_start.png</file>
+        <file>qml/images/icons/icon_stop.png</file>
+        <file>qml/images/icons/icon_unmute.png</file>
+        <file>qml/images/icons/icon_url.png</file>
+        <file>qml/images/icons/icon_weather.png</file>
+        <file>qml/images/icons/icon_wmCloseIcon.png</file>
+        <file>qml/images/icons/icon_wmRightButton.png</file>
+        <file>qml/images/music/listbar_music_left.png</file>
+        <file>qml/images/music/note.png</file>
+        <file>qml/images/player/button_forward.png</file>
+        <file>qml/images/player/button_pause.png</file>
+        <file>qml/images/player/button_play.png</file>
+        <file>qml/images/player/button_rewind.png</file>
+        <file>qml/images/player/icon_next.png</file>
+        <file>qml/images/player/icon_now_playing.png</file>
+        <file>qml/images/player/icon_pause.png</file>
+        <file>qml/images/player/icon_play.png</file>
+        <file>qml/images/player/icon_player_back.png</file>
+        <file>qml/images/player/icon_prev.png</file>
+        <file>qml/images/player/indicator.png</file>
+        <file>qml/images/volume/mute_button.png</file>
+        <file>qml/images/volume/volume_slider_back.png</file>
+        <file>qml/images/volume/volume_slider_button.png</file>
+        <file>qml/images/scroll_indicator.png</file>
+        <file>qml/main.qml</file>
+        <file>qml/images/backgrounds/homeBackground.png</file>
+        <file>qml/images/icons/weather-few-clouds.png</file>
+        <file>qml/images/icons/weather-fog.png</file>
+        <file>qml/images/icons/weather-haze.png</file>
+        <file>qml/images/icons/weather-icy.png</file>
+        <file>qml/images/icons/weather-overcast.png</file>
+        <file>qml/images/icons/weather-showers.png</file>
+        <file>qml/images/icons/weather-sleet.png</file>
+        <file>qml/images/icons/weather-snow.png</file>
+        <file>qml/images/icons/weather-storm.png</file>
+        <file>qml/images/icons/weather-sunny-very-few-clouds.png</file>
+        <file>qml/images/icons/weather-sunny.png</file>
+        <file>qml/images/icons/weather-thundershower.png</file>
+        <file>qml/Log/time.js</file>
+        <file>qml/dummydata/content/faces/images.jpeg</file>
+    </qresource>
+</RCC>
